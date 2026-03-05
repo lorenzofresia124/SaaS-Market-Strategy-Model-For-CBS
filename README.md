@@ -125,5 +125,5 @@ A growth chart visualises the projected revenue trajectory.
 
 # Project Files
 The Excel Models used in this analysis can be downloaded below:
-- [01_Market_Size](SaaS_Market_Strategy_Model/01_Market_Size.xlsx)
+- [01_Market_Size](https://github.com/lorenzofresia124/SaaS-Market-Strategy-Model/raw/main/SaaS%20Market%20Strategy%20Model/01_Market%20Size.xlsx)
 - 
