@@ -126,4 +126,21 @@ A growth chart visualises the projected revenue trajectory.
 # Project Files
 The Excel Models used in this analysis can be downloaded below:
 - [01_Market_Size](https://github.com/lorenzofresia124/SaaS-Market-Strategy-Model/raw/main/SaaS%20Market%20Strategy%20Model/01_Market%20Size.xlsx)
-- 
+- [02_Competitor_analysis](https://github.com/lorenzofresia124/SaaS-Market-Strategy-Model/raw/main/SaaS%20Market%20Strategy%20Model/02_Competitor%20analysis.xlsx)
+- [03_Revenue_Scenaro]()
+- [04_Growth_Projection]()
+
+---
+
+# Conclusion
+This project explores the strategic positioning and market opportunity for a hypothetical Digital Productivity SaaS platform.
+
+Through market sizing, competitor analysis and revenue scenario modelling, the analysis highlights how even small levels of market penetration can generate significat recurring revenue in subscription_based sofware business.
+
+The model is designed to be easily adjustable, allow users to modify assuptions such as market size, pricing and growth rates to simulate different strategic outcome.
+
+---
+
+# Author
+Lorenzo Fresia 
+Aspiring Business & Digital Management student interested in Saas economics, market strategy and data-driven business analysis.
