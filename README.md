@@ -128,7 +128,7 @@ The Excel Models used in this analysis can be downloaded below:
 - [01_Market_Size](https://github.com/lorenzofresia124/SaaS-Market-Strategy-Model/raw/main/SaaS%20Market%20Strategy%20Model/01_Market%20Size.xlsx)
 - [02_Competitor_analysis](https://github.com/lorenzofresia124/SaaS-Market-Strategy-Model/raw/main/SaaS%20Market%20Strategy%20Model/02_Competitor%20analysis.xlsx)
 - [03_Revenue_Scenaro](https://github.com/lorenzofresia124/SaaS-Market-Strategy-Model/raw/main/SaaS%20Market%20Strategy%20Model/03_Revenue%20Scenario.xlsx)
-- [04_Growth_Projection]()
+- [04_Growth_Projection](https://github.com/lorenzofresia124/SaaS-Market-Strategy-Model/raw/main/SaaS%20Market%20Strategy%20Model/04_Growth%20Projection.xlsx)
 
 ---
 
