@@ -20,6 +20,13 @@ The model focuses on four key questions:
 - How could the business grow over time?
 
 ---
+# How to use the Model
+The excel files in this project are interconnected.
+For the best experience, it is recommended to download all the files and keep them in the same folder
+
+Open the file simultaneously to ensure that all the link and reference between the model function correctly.
+
+---
 
 # Model Structure
 
