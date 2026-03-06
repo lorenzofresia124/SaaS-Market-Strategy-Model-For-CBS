@@ -143,4 +143,5 @@ The model is designed to be easily adjustable, allow users to modify assuptions 
 
 # Author
 Lorenzo Fresia 
+
 Aspiring Business & Digital Management student interested in Saas economics, market strategy and data-driven business analysis.
